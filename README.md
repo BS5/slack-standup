@@ -22,9 +22,9 @@ Sign into your Slack groups in a browser. Go to the following URL to create lega
 
 **Ruby**
 
-I use [https://github.com/rbenv/rbenv](rbenv) to manage my Ruby versions. This made using cron a little difficult but I got it to work.
+I use [rbenv](https://github.com/rbenv/rbenv) to manage my Ruby versions. This made using cron a little difficult but I got it to work.
 
-Gem [https://github.com/slack-ruby/slack-ruby-client](Slack Web Client)
+Gem [Slack Web Client](https://github.com/slack-ruby/slack-ruby-client)
 
 **Cron Setup**
 
