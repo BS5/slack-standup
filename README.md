@@ -64,10 +64,17 @@ Changed a lot in the script.
 Created an automated standup report Slack script.
 ```
 
-Some suggested differences could be:
+## To Dos
+
+* Implement cron through [whenever](https://github.com/javan/whenever).
+* Add random timer to make it look not so automated to your coworkers.
+* Add random color strip for the message.
+
+Some suggested differences for getting the data could be:
 
 * Post the most recent data regardless of date.
 * Post the whole contents of the report file and don't keep a history.
 * Post the report then archive the file.
 * Use multiple data files.
+
 
