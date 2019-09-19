@@ -69,6 +69,7 @@ Created an automated standup report Slack script.
 * Implement cron through [whenever](https://github.com/javan/whenever).
 * Add random timer to make it look not so automated to your coworkers.
 * Add random color strip for the message.
+* Add data to a repo and pull the latest before running the script.
 
 Some suggested differences for getting the data could be:
 
